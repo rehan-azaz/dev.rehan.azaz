@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on MERN Stack | JavaScript 
-- 🌱 I’m currently learning AI / ML / NN
+- 🔭 I’m a Full Stack Web Developer! 
+- 🌱 I’m currently learning Nest JS | Next JS | Graph QL
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with your support
-- 💬 Ask me about on 
-- 📫 How to reach me: mailto:dev.rehan.azazgmail.com
+- 📫 How to reach me: mailto:dev.rehan.azaz@gmail.com
 - 😄 Pronouns: Rehan Azaz
 - ⚡ Fun fact: I am a multitasker
